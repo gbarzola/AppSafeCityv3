@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_card_corner_radius">4dp</dimen>
+    <dimen name="default_album_spacing">4dp</dimen>
+    <dimen name="default_list_item_interlist_margin">20dp</dimen>
+</resources>
